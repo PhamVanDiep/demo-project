@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/demo-project/static/css/main.2a97d9ab.css",
+    "main.js": "/demo-project/static/js/main.fb8552b7.js",
+    "static/media/LilitaOne-Regular.ttf": "/demo-project/static/media/LilitaOne-Regular.e970d047065ed950bb8c.ttf",
+    "static/media/location.png": "/demo-project/static/media/location.7252c11c0f8af4c9846a.png",
+    "static/media/ship.png": "/demo-project/static/media/ship.da11523d2a0cea0fec78.png",
+    "static/media/qr.png": "/demo-project/static/media/qr.e726840117841fb1b4aa.png",
+    "static/media/person.png": "/demo-project/static/media/person.73654a5d0c0ea6e98562.png",
+    "static/media/payment.png": "/demo-project/static/media/payment.106924d2acb6755d0f77.png",
+    "index.html": "/demo-project/index.html",
+    "main.2a97d9ab.css.map": "/demo-project/static/css/main.2a97d9ab.css.map",
+    "main.fb8552b7.js.map": "/demo-project/static/js/main.fb8552b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a97d9ab.css",
+    "static/js/main.fb8552b7.js"
+  ]
+}
